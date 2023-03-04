@@ -1,0 +1,3 @@
+<launch>
+<node pkg="path_solver" type="solver_2a.py" name="line_follower_node" output="screen"/>
+</launch>
